@@ -235,7 +235,7 @@ const Hero = ({ dark }) => {
               <span>{typed}</span>
               <span className="cursor-blink ml-0.5">|</span>
             </div>
-            <p className="text-neutral-5000 max-w-lg">{SITE.tagline}</p>
+            <p className="text-neutral-500 max-w-lg">{SITE.tagline}</p>
 
             <div className="flex flex-wrap gap-3 pt-2">
               <a href={SITE.resumeLink} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-5 py-2.5 rounded-lg bg-neutral-900 dark:bg-white text-white dark:text-neutral-900 font-semibold text-sm hover:opacity-90 transition-opacity">
