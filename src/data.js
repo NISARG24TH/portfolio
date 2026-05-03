@@ -4,7 +4,7 @@ export const SITE = {
   tagline: "Crafting digital experiences that make a difference",
   email: "nisargbhoi24@gmail.com",
   phone: null,
-  photo: "photo.png", // ← Your photo must be in the /public folder as "photo.jpg"
+  photo: "/photo.png", // ← Your photo must be in the /public folder as "photo.jpg"
   roles: ["AI Engineer", "GenAI Engineer", "Computer Engineer", "Technology Enthusiast"],
   resumeLink: "#",
   whatsappLink: "https://wa.me/message/HPAPHPLMP2JDA1",
