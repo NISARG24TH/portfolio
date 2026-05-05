@@ -86,20 +86,20 @@ export const PROJECTS = [
 ];
 
 export const EXPERIENCES = [
-  {
-    company: "Goldman Sachs",
-    role: "AI / ML Engineer",
-    period: "2026 – Present",
-    desc: "Engineered robust machine learning pipelines for financial risk assessment and quantitative modeling. Implemented large-scale data processing workflows and optimized AI-driven predictive algorithms for high-frequency trading insights.",
-    tags: ["Python", "Machine Learning", "Pandas", "SQL", "Data Engineering", "Predictive Modeling"],
-  },
-  {
-    company: "Nembus Technologies",
-    role: "Software Engineering Intern",
-    period: "Apr 2025 – Aug 2025",
-    desc: "Developed and maintained full-stack web applications, contributing to both frontend UI components and backend API services. Collaborated with cross-functional teams to optimize application performance and streamline deployment workflows.",
-    tags: ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Git"],
-  },
+  // {
+  //   company: "Goldman Sachs",
+  //   role: "AI / ML Engineer",
+  //   period: "2026 – Present",
+  //   desc: "Engineered robust machine learning pipelines for financial risk assessment and quantitative modeling. Implemented large-scale data processing workflows and optimized AI-driven predictive algorithms for high-frequency trading insights.",
+  //   tags: ["Python", "Machine Learning", "Pandas", "SQL", "Data Engineering", "Predictive Modeling"],
+  // },
+  // {
+  //   company: "Nembus Technologies",
+  //   role: "Software Engineering Intern",
+  //   period: "Apr 2025 – Aug 2025",
+  //   desc: "Developed and maintained full-stack web applications, contributing to both frontend UI components and backend API services. Collaborated with cross-functional teams to optimize application performance and streamline deployment workflows.",
+  //   tags: ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Git"],
+  // },
   {
     company: "Maxgen Technologies",
     role: "AI / ML Intern",
